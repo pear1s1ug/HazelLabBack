@@ -44,19 +44,19 @@ PHPMyAdmin: http://localhost:8080
 
 ***Administrador***
 
-Email: admin@hazellab.cl
+Email: admin1@duoc.cl
 
 Usuario: admin
 
-Contraseña: Admin123*
+Contraseña: Admin123
 
 ***Usuario Cliente***
 
-Email: cliente@hazellab.cl
+Email: juan@duoc.cl
 
 Usuario: cliente
 
-Contraseña: Cliente123*
+Contraseña: Cliente123
 
 Estas credenciales permiten realizar pruebas completas en Postman, Swagger y el frontend (login y rutas protegidas).
 
