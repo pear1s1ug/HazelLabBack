@@ -58,6 +58,8 @@ Usuario: cliente
 
 Contraseña: Cliente123
 
+***Se recomienda Generar un nuevo usuario para hacer prueba***
+
 Estas credenciales permiten realizar pruebas completas en Postman, Swagger y el frontend (login y rutas protegidas).
 
 -Endpoints Principales para pruebas en Postman
